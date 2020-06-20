@@ -1,14 +1,5 @@
 /*******************************************************************************************
   Easing equations for Arduino v0.1
-  
-  These functions were quickly mashed together and the code could probably need some 
-  tidying up e.g. in terms of memory management (all variables are floats).
-  
-  All functions are put in the namespace "Easing".
-  
-  July 27, 2009
-  Translated by Tobias Toft
-  hello@tobiastoft.dk
 
   Based on the work by Robert Penner.
 
